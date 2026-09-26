@@ -1,7 +1,7 @@
 # Abraham Isaiah
 **Senior Software Engineer | Full Stack & Fintech Systems**
 
-Results-driven Senior Full Stack Software Engineer specializing in scalable fintech platforms, SaaS applications, and microservices architecture. Experienced in leading agile engineering teams, designing APIs, integrating payments, optimizing databases, and shipping to the cloud.
+Results-driven Senior Full Stack Software Engineer with a degree in **Mechatronics Engineering**, specializing in scalable fintech platforms, SaaS applications, and microservices architecture. Leveraging a strong foundation in systems engineering and automation, I have extensive experience leading agile teams, designing robust APIs, integrating payments, optimizing databases, and shipping to the cloud.
 
 ---
 
