@@ -1,3 +1,7 @@
+<img src="https://media.licdn.com/dms/image/v2/D4E16AQGw62372dfTtw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1732704889319?e=1792022400&v=beta&t=MS0mdSQUnoXh4riQojv99Rz5YNmZhauKfvVsztElTGM" alt="Banner Image" width="100%" />
+
+<br/>
+
 <img align="right" src="https://avatars.githubusercontent.com/u/96689032?v=4" alt="Abraham Isaiah Profile Picture" width="160" />
 
 # Abraham Isaiah
