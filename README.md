@@ -12,23 +12,24 @@ Results-driven Senior Full Stack Software Engineer with a degree in **Mechatroni
 <p align="left">
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
   <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React Native" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
   <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/Material_UI-007FFF?style=flat-square&logo=mui&logoColor=white" alt="Material UI" />
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" alt="Express.js" />
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firebase" />
   <img src="https://img.shields.io/badge/AI_Agents_&_LLMs-8A2BE2?style=flat-square&logo=openai&logoColor=white" alt="AI Agents & LLMs" />
-  <img src="https://img.shields.io/badge/Anthropic_Claude-D97757?style=flat-square&logo=anthropic&logoColor=white" alt="Claude AI" />
 </p>
+
+* **Languages:** JavaScript (ES6+), TypeScript, C++, PHP, SQL, HTML5, CSS3, MATLAB (Onramp)
+* **Frontend & Mobile:** React.js, Next.js, React Native, Flutter, Vite, React Query, Valtio, Material UI (MUI), Tailwind CSS, SCSS/Sass, Bootstrap 5, SPA, PWA, Responsive Web Design
+* **Backend & Architecture:** Node.js, Express.js, Laravel, RESTful APIs, WebSockets, Socket.IO, Auth (OAuth, JWT), Microservices, System Architecture, Serverless
+* **Databases & Modeling:** MongoDB, MySQL, PostgreSQL, Firebase Firestore, Relational & NoSQL Data Modeling, Query Optimization
+* **DevOps, Cloud & Tooling:** Git/GitHub, Docker, CI/CD, Vercel, Netlify, Render, Cloudflare, Hostinger, Firebase, Postman, Figma, ESLint, Nodemailer
+* **AI, Integrations & Systems:** Prompt Engineering, AI Agents, Claude, ChatGPT, Chatbots, Paystack, Mapbox (Live GPS Tracking), Meta Pixel, Google Sitelinks & Analytics, Zoho CRM, Freshchat, HubSpot, Automated Ticket Handling, Knowledge Base Authoring
 
 ---
 
