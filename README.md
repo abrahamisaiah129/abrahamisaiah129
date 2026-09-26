@@ -81,4 +81,4 @@ Results-driven Senior Full Stack Software Engineer with a degree in **Mechatroni
 
 ### Connect
 
-[LinkedIn](https://linkedin.com/in/abrahamisaiah) | [GitHub](https://github.com/abrahamisaiah129) | [abrahamisaiah129@gmail.com](mailto:abrahamisaiah129@gmail.com)
+[LinkedIn](https://linkedin.com/in/abrahamisaiah) | [GitHub](https://github.com/abrahamisaiah129) | [Portfolio & Resume](https://docs.google.com/document/d/1_DKqmwUCgioVAoFjv97qCMvfwW2o-qiF/edit?usp=sharing) | [abrahamisaiah129@gmail.com](mailto:abrahamisaiah129@gmail.com)
