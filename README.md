@@ -1,7 +1,7 @@
 # Abraham Isaiah
 **Senior Software Engineer | Full Stack & Fintech Systems**
 
-Results-driven Senior Full Stack Software Engineer with a degree in **Mechatronics Engineering**, specializing in scalable fintech platforms, SaaS applications, and microservices architecture. Leveraging a strong foundation in systems engineering and automation, I have extensive experience leading agile teams, designing robust APIs, integrating payments, optimizing databases, and shipping to the cloud.
+Results-driven Senior Full Stack Software Engineer with a degree in **Mechatronics Engineering (Software Option)**, specializing in scalable fintech platforms, SaaS applications, and microservices architecture. Leveraging a strong foundation in systems engineering and automation, I have extensive experience leading agile teams, designing robust APIs, integrating payments, optimizing databases, and shipping to the cloud.
 
 ---
 
@@ -55,6 +55,13 @@ Results-driven Senior Full Stack Software Engineer with a degree in **Mechatroni
 * **[Resilient API Gateway Shield](https://github.com/abrahamisaiah129/Resilient-API-Gateway-Shield-Distributed-Idempotency-Engine)** | Distributed idempotency engine for robust, fault-tolerant API gateways.
 * **[House of God Church Admin](https://github.com/abrahamisaiah129/house-of-god-church-admin)** | Comprehensive administrative portal for managing church operations.
 * **[Golf & Football Web App](https://github.com/abrahamisaiah129/GOLFANDFOOTBALLWEBAPP)** | Full-stack sports web application.
+
+---
+
+### Education
+
+🎓 **B.Eng. in Mechatronics Engineering (Software Option)** — Second Class Honors
+*Federal University of Technology Owerri (FUTO)*
 
 ---
 
