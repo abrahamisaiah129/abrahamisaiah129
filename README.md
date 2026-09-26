@@ -77,12 +77,26 @@ Results-driven Senior Full Stack Software Engineer with a degree in **Mechatroni
 ### GitHub Analytics
 
 <p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=abrahamisaiah129&show_icons=true&theme=transparent&hide_border=true&title_color=000000&text_color=000000&icon_color=000000" alt="Abraham's GitHub Stats" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abrahamisaiah129&layout=compact&theme=transparent&hide_border=true&title_color=000000&text_color=000000" alt="Top Languages" />
+  <img src="https://img.shields.io/github/followers/abrahamisaiah129?label=Followers&style=for-the-badge&color=blue&logo=github" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/abrahamisaiah129?label=Total%20Stars&style=for-the-badge&color=yellow&logo=github" alt="Stars" />
+  <img src="https://img.shields.io/github/repos/abrahamisaiah129?label=Public%20Repositories&style=for-the-badge&color=green&logo=github" alt="Repos" />
 </p>
 
 ---
 
 ### Connect
 
-[LinkedIn](https://linkedin.com/in/abrahamisaiah) | [GitHub](https://github.com/abrahamisaiah129) | [Portfolio & Resume](https://docs.google.com/document/d/1_DKqmwUCgioVAoFjv97qCMvfwW2o-qiF/edit?usp=sharing) | [abrahamisaiah129@gmail.com](mailto:abrahamisaiah129@gmail.com)
+<p align="center">
+  <a href="https://linkedin.com/in/abrahamisaiah">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/abrahamisaiah129">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://docs.google.com/document/d/1_DKqmwUCgioVAoFjv97qCMvfwW2o-qiF/edit?usp=sharing">
+    <img src="https://img.shields.io/badge/Portfolio_&_Resume-2563EB?style=for-the-badge&logo=google-docs&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="mailto:abrahamisaiah129@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
