@@ -1,3 +1,5 @@
+<img align="right" src="https://avatars.githubusercontent.com/u/96689032?v=4" alt="Abraham Isaiah Profile Picture" width="160" />
+
 # Abraham Isaiah
 **Senior Software Engineer | Full Stack & Fintech Systems**
 
