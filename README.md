@@ -1,7 +1,7 @@
 # Abraham Isaiah
 **Senior Software Engineer | Full Stack & Fintech Systems**
 
-Results-driven Senior Full Stack Software Engineer with a degree in **Mechatronics Engineering (Software Option)**, specializing in scalable fintech platforms, SaaS applications, and microservices architecture. Leveraging a strong foundation in systems engineering and automation, I have extensive experience leading agile teams, designing robust APIs, integrating payments, optimizing databases, and shipping to the cloud.
+Results-driven Senior Full Stack Software Engineer with a degree in **Mechatronics Engineering (Software Option)**, specializing in scalable fintech platforms, SaaS applications, and microservices architecture. Leveraging a strong foundation in systems engineering and automation, I have extensive experience leading agile teams, designing robust APIs, integrating payments, optimizing databases, and shipping to the cloud. I also leverage advanced **AI agents and LLMs (like Claude and ChatGPT)** to accelerate development, automate workflows, and enhance architectural decision-making.
 
 ---
 
@@ -26,6 +26,8 @@ Results-driven Senior Full Stack Software Engineer with a degree in **Mechatroni
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firebase" />
+  <img src="https://img.shields.io/badge/AI_Agents_&_LLMs-8A2BE2?style=flat-square&logo=openai&logoColor=white" alt="AI Agents & LLMs" />
+  <img src="https://img.shields.io/badge/Anthropic_Claude-D97757?style=flat-square&logo=anthropic&logoColor=white" alt="Claude AI" />
 </p>
 
 ---
