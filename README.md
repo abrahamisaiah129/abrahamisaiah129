@@ -44,7 +44,7 @@ Results-driven Senior Full Stack Software Engineer specializing in scalable fint
 * **[CreaNote (AI-Powered Note App)](https://github.com/abrahamisaiah129/creanote)** — [Live Demo](https://creanote-five.vercel.app) | Intelligent note-taking application augmented with AI capabilities.
 * **[ISQDF (IMO Striker Queens Foundation)](https://github.com/abrahamisaiah129/ISQDF)** — [Live Demo](https://isqdf.vercel.app) | Official platform for a women's football charity and mentorship program.
 * **[Flier Templating Generator](https://github.com/abrahamisaiah129/flier-templating-generator)** — [Live Demo](https://flier-templating-generator.vercel.app) | Web-based utility for dynamically generating design fliers and templates.
-* **[Mima Official](https://github.com/abrahamisaiah129/mima-official)** — [Live Demo](https://mima-official.vercel.app) | Official web presence and landing platform for Mima.
+* **[Mima Official](https://github.com/abrahamisaiah129/mima-official)** — [Live Demo](https://mimaclient-bn51nzjli-isaiahs-projects-67393298.vercel.app/) | Official web presence and landing platform for Mima.
 * **[Resilient API Gateway Shield](https://github.com/abrahamisaiah129/Resilient-API-Gateway-Shield-Distributed-Idempotency-Engine)** | Distributed idempotency engine for robust, fault-tolerant API gateways.
 * **[House of God Church Admin](https://github.com/abrahamisaiah129/house-of-god-church-admin)** | Comprehensive administrative portal for managing church operations.
 * **[Golf & Football Web App](https://github.com/abrahamisaiah129/GOLFANDFOOTBALLWEBAPP)** | Full-stack sports web application.
