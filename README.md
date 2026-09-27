@@ -99,8 +99,11 @@ Take a look around my repositories to see what I've been building, or reach out 
   <a href="https://github.com/abrahamisaiah129">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
+  <a href="https://abrahamisaiah129.github.io">
+    <img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
   <a href="https://docs.google.com/document/d/1_DKqmwUCgioVAoFjv97qCMvfwW2o-qiF/edit?usp=sharing">
-    <img src="https://img.shields.io/badge/Portfolio_&_Resume-2563EB?style=for-the-badge&logo=google-docs&logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Resume-0F9D58?style=for-the-badge&logo=google-docs&logoColor=white" alt="Resume" />
   </a>
   <a href="mailto:abrahamisaiah129@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
